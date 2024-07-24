@@ -4,7 +4,7 @@ Pac-Man AI using Deep Convolutional Q Learning.
 <br />
 <b>About</b>
 <br />
-Built and trained an AI using a Deep Convolutional Q-Learning model to play Pac-Man with the Gymnasium AI Library, developing expertise in reinforcement learning.
+Built and trained a Deep Convolutional Q-Learning model to play Pac-Man with the Gymnasium AI Library, developing expertise in reinforcement learning.
 <br />
 <b>Sections</b>
 <br/>
